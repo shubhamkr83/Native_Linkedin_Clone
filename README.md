@@ -1,73 +1,49 @@
-# Shopperia-Ecomm-WebApp
-<p>Created and deployed a fully functional & fully responsive E-Commerce web application using Reactjs for the front-end & Styled Components for styling. Integrated all the important features such as add to cart, search product, filter the product from the (category, company, price), login/logout, and a contact form that sends the data to the owner's email application. Executed all the API calls using Axios, and authenticate the user with Auth0.</p>
+# React Native Linkedin Clone
+<p>The LinkedIn UI Clone project is a mobile application developed using the React Native framework that replicates the user interface and dynamic data fetching with some core features of the popular professional networking platform, LinkedIn. The goal of this project is to provide a learning opportunity for developers to practice building complex UIs and implementing interactive features using React Native's components and libraries.</p>
 
-<h3>Live Project:- https://shopperia.netlify.app </h3>
 
 # Features:-
 <ol>
-    <li>Login and Registration</li>   
-    <li>Dynamic Routing</li>
-    <li>Add to cart</li>
-    <li>Cart Quantity Toggle</li>
-    <li>Contact Form</li>
-    <li>Filter the products by:-</li> 
-        <ol>
-          <li>Search Filter</li>
-          <li>Change Layout</li>
-          <li>Pricing:- </li>
-          <ol>
-            <li>Highest to Lowest</li>
-             <li>Lowest to Highest</li>
-          </ol>
-          <li>Alphabetically Order:-</li>
-          <ol>
-            <li>A to Z</li>
-            <li>Z to A</li>
-          </ol>
-             <li>Catagory Filter</li>
-        <li>Company Filter</li>
-        <li>Color Filter</li>
-        <li>Price Range Filter</li>
-        <li>Clear Filter</li>
-        </ol>
-    
+    <li>Home Page View</li>   
+    <li>Network Page View</li>
+    <li>Notification Page View</li>
+    <li>Job Page View</li>
+    <li>Profile Page View</li>
 </ol>
 
 
 # Technology Used:-
 <ul>
-<li>React</li>
-<li>React-icons</li>
-<li>React-router-dom</li>
-<li>Styled-components</li>
-<li>Axios</li>
-<li>Auth0</li>
+<li>React Native</li>
+<li>React Navigation</li>
+<li>React Native Screens</li>
+<li>React Native Vector Icons</li>
 </ul>
 
 
 # Project Screenshots:- </h2>
+
 <h3>Home Page</h3>
 
-![Home Page](https://github.com/shubhamkr83/Shopperia/assets/72254047/48eb8380-0614-4fe8-a393-157fd2fda1e7)
+![Screenshot (474)](https://github.com/shubhamkr83/Native_Linkedin_Clone/assets/72254047/36f3cef5-b245-4e57-980d-542e25aed960)
 
 
-
-<h3>Product Page</h3>
+<h3>Network Page</h3>
 
 ![Product Page](https://github.com/shubhamkr83/Shopperia/assets/72254047/a8909e16-db1c-4754-8776-6020556f3c8f)
 
 
-<h3>Contact Page</h3>
+<h3>Notification Page</h3>
 
 ![Contact](https://github.com/shubhamkr83/Shopperia/assets/72254047/fd83c972-6106-40e5-96fc-984672f204da)
 
 
-<h3>Add to cart Page</h3>
+<h3>Job Page</h3>
 
 ![Add to cart](https://github.com/shubhamkr83/Shopperia/assets/72254047/47b75441-1bbf-4262-a852-2fd869c276d1)
 
 
-<h3>About Us Page</h3>
+<h3>Profile Page</h3>
 
 ![About Us](https://github.com/shubhamkr83/Shopperia/assets/72254047/b9052cc0-5c7c-430d-b61c-bb6336f6d038)
 
