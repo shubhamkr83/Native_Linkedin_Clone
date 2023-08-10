@@ -6,6 +6,7 @@
 <ol>
     <li>Home Page View</li>   
     <li>Network Page View</li>
+    <li>Post Page View</li>
     <li>Notification Page View</li>
     <li>Job Page View</li>
     <li>Profile Page View</li>
@@ -30,24 +31,36 @@
 
 <h3>Network Page</h3>
 
-![Product Page](https://github.com/shubhamkr83/Shopperia/assets/72254047/a8909e16-db1c-4754-8776-6020556f3c8f)
+
+<h3>Post Page</h3>
+
+![Post Page](https://github.com/shubhamkr83/Native_Linkedin_Clone/assets/72254047/6a2907f5-afff-41b6-b69c-80b4f1b7b901)
 
 
 <h3>Notification Page</h3>
 
-![Contact](https://github.com/shubhamkr83/Shopperia/assets/72254047/fd83c972-6106-40e5-96fc-984672f204da)
+
+![Noti Page](https://github.com/shubhamkr83/Native_Linkedin_Clone/assets/72254047/ea523e7b-0de1-492c-977f-b9af7d9fad0d)
 
 
 <h3>Job Page</h3>
 
-![Add to cart](https://github.com/shubhamkr83/Shopperia/assets/72254047/47b75441-1bbf-4262-a852-2fd869c276d1)
+![Job Page](https://github.com/shubhamkr83/Native_Linkedin_Clone/assets/72254047/d5cad4f5-a945-4f77-be49-92879fdb1bfe)
+
 
 
 <h3>Profile Page</h3>
 
-![About Us](https://github.com/shubhamkr83/Shopperia/assets/72254047/b9052cc0-5c7c-430d-b61c-bb6336f6d038)
+![pr1](https://github.com/shubhamkr83/Native_Linkedin_Clone/assets/72254047/2b392aa6-4c65-45f7-8900-0e84f89d88c9)
+
+![pr2](https://github.com/shubhamkr83/Native_Linkedin_Clone/assets/72254047/0b9c1c97-52ec-473c-9c2c-9efbf884cdd6)
+
+![pr3](https://github.com/shubhamkr83/Native_Linkedin_Clone/assets/72254047/b209a07d-63d2-4c99-8d64-0bdf0e58b1cf)
+
+![pr4](https://github.com/shubhamkr83/Native_Linkedin_Clone/assets/72254047/c90d6484-a689-4eb2-bc77-750a70ae90e9)
 
 
+![Screenshot (483)](https://github.com/shubhamkr83/Native_Linkedin_Clone/assets/72254047/b0a1bbcb-37ae-4698-bea3-679e547a8983)
 
 <h2>Folder Structure:-</h2>
 <pre>
