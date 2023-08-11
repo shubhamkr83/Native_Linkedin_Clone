@@ -21,7 +21,7 @@
 <li>React Native Vector Icons</li>
 </ul>
 
-<h2>Installition Process:-</h2>
+<h2>Setup Application Process:-</h2>
 <h4>Step1:- Clone this repo or download the zip file </h4>
   
 <h4>Step2:- Run this command to install all the dependencies:- <code> npm install </code>  </h4>
