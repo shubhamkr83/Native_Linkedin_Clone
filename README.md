@@ -71,58 +71,29 @@
 <h2>Folder Structure:-</h2>
 <pre>
 .
-├── public
+├── .bundle
+├── _tests_
+├── android
+├── assets
+├── ios
 ├── src
-│   ├── Helpers
-│       ├── FormatPrice.jsx
-│   ├── assets
-│   ├── components
-│       ├── AddToCart.jsx
-│       ├── CartAmountToggle.jsx
-│       ├── CartItem.jsx
-│       ├── FeatureProduct.jsx
-│       ├── FilterSection.jsx
-│       ├── Footer.jsx
-│       ├── GridView.jsx
-│       ├── Header.css
-│       ├── HeroSection.jsx
-│       ├── ListView.jsx
-│       ├── MyImage.jsx 
-│       ├── Nav.jsx
-│       ├── PageNavigation.jsx
-│       ├── Product.jsx
-│       ├── ProductList.jsx
-│       ├── Services.jsx
-│       ├── Sort.jsx
-│       ├── Star.jsx
-│       ├── Trusted.jsx 
-│   ├── context
-│       ├── cart_context.jsx
-│       ├── filter_contect.jsx 
-│       ├── productcontext.jsx 
-│   ├── reducer
-│       ├── cartReducer.jsx
-│       ├── filterReducer.jsx 
-│       ├── productReducer.jsx 
-│   ├── styles
-│       ├── Button.jsx 
-│       ├── Container.jsx 
-│   ├── About.jsx
-│   ├── App.css
-│   ├── App.jsx
-│   ├── Cart.jsx
-│   ├── Contact.jsx
-│   ├── ErrorPage.jsx 
-│   ├── GlobalStyle.jsx
-│   ├── Home.jsx
-│   ├── Product.jsx
-│   ├── SingleProduct.jsx
-│   ├── index.css
-│   ├── main.jsx 
-├── .gitignore           
-├── index.html                  
-├── package.json                   
-├── yarn.lock                 
-└── README.md
+    
+├── .buckconfig
+├── .eslintrc.js
+├── .flowconfig
+├── .gitignore
+├── .preettierrc.js
+├── .ruby-version
+├── .watchmanconfig
+├── App.js
+├── Gemfile
+├── Gemfile.lock
+├── README.md
+├── app.json 
+├── babel.config.js
+├── index.js
+├── metro.config.js
+├── package-lock.json
+├── package.json
 </pre>
 
