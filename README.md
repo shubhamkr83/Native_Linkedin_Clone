@@ -85,7 +85,7 @@
             ├── ShowLicenses.js
             ├── ShowPeople.js
             ├── ShowProjects.js
-            ├── ShowSkills.js
+            └──  ShowSkills.js
         ├── CustomIcon.js
         ├── Dimensions.js
         ├── GoToNotifications.js
@@ -97,26 +97,26 @@
         ├── ShowJobs.js
         ├── ShowNetworks.js
         ├── ShowNotifications.js
-        ├── ShowPosts.js
+        └──  ShowPosts.js
     ├── Data
         ├── Jobs.js
         ├── Network.js
         ├── Notifications.js
         ├── Posts.js
-        ├── Profile.js
+        └──  Profile.js
     ├── Screens
         ├── Home.js
         ├── Job.js
         ├── Network.js
         ├── Notification.js
         ├── Post.js
-        ├── Profile.js
+        └──  Profile.js
     ├── Utils
         ├── Colors.js
         ├── Images.js
         ├── Screens.js
-        ├── Styles.js
-    ├── Routes.js
+        └──  Styles.js
+    └──  Routes.js
 ├── .buckconfig
 ├── .eslintrc.js
 ├── .flowconfig
@@ -133,6 +133,6 @@
 ├── index.js
 ├── metro.config.js
 ├── package-lock.json
-├── package.json
+└──  package.json
 </pre>
 
