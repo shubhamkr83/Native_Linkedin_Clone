@@ -77,7 +77,46 @@
 ├── assets
 ├── ios
 ├── src
-    
+    ├── Components
+        ├── Profile
+            ├── ShowCources.js
+            ├── ShowEducation.js
+            ├── ShowExperience.js
+            ├── ShowLicenses.js
+            ├── ShowPeople.js
+            ├── ShowProjects.js
+            ├── ShowSkills.js
+        ├── CustomIcon.js
+        ├── Dimensions.js
+        ├── GoToNotifications.js
+        ├── HeaderOptions.js
+        ├── Heading.js
+        ├── ItemSeparator.js
+        ├── SectionHeading.js
+        ├── ShowAllFooter.js
+        ├── ShowJobs.js
+        ├── ShowNetworks.js
+        ├── ShowNotifications.js
+        ├── ShowPosts.js
+    ├── Data
+        ├── Jobs.js
+        ├── Network.js
+        ├── Notifications.js
+        ├── Posts.js
+        ├── Profile.js
+    ├── Screens
+        ├── Home.js
+        ├── Job.js
+        ├── Network.js
+        ├── Notification.js
+        ├── Post.js
+        ├── Profile.js
+    ├── Utils
+        ├── Colors.js
+        ├── Images.js
+        ├── Screens.js
+        ├── Styles.js
+    ├── Routes.js
 ├── .buckconfig
 ├── .eslintrc.js
 ├── .flowconfig
