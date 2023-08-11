@@ -60,18 +60,11 @@
 
 <h3>Profile Page</h3>
 
-![Profile1](https://github.com/shubhamkr83/Native_Linkedin_Clone/assets/72254047/49cace7d-6907-4c20-b42a-f7d6bc0328b9)
+![Untitled design](https://github.com/shubhamkr83/Native_Linkedin_Clone/assets/72254047/ac5058a8-aee8-4884-b0bc-3601028b2bdd)
 
-![Profile2](https://github.com/shubhamkr83/Native_Linkedin_Clone/assets/72254047/819d4cc0-e526-4efe-b541-d6bd865b9b54)
+![Untitled design1](https://github.com/shubhamkr83/Native_Linkedin_Clone/assets/72254047/98411974-f8b8-4870-b449-eb4b3719c0af)
 
-![Profile3](https://github.com/shubhamkr83/Native_Linkedin_Clone/assets/72254047/e4c4b3e4-9c5c-4f9e-a24e-90e25a2c6871)
-
-![Profile4](https://github.com/shubhamkr83/Native_Linkedin_Clone/assets/72254047/8791368d-2393-4ebc-8d41-8cc1a763c7fa)
-
-![Profile5](https://github.com/shubhamkr83/Native_Linkedin_Clone/assets/72254047/642b6440-8c07-4466-ac17-9b1be6b90b1f)
-
-![Profile6](https://github.com/shubhamkr83/Native_Linkedin_Clone/assets/72254047/8b06db3f-153f-4ed8-9eac-46262704f135)
-
+![Untitled design2](https://github.com/shubhamkr83/Native_Linkedin_Clone/assets/72254047/54ff60de-516b-4450-9996-adc0f2082011)
 
 
 
